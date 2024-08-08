@@ -32,7 +32,6 @@ cloudpickle==2.2.1
 colorama==0.4.6
 colorlover==0.3.0
 comm==0.2.2
-conda==24.5.0
 conda-libmamba-solver==24.1.0
 conda-package-handling==2.3.0
 conda_package_streaming==0.10.0
