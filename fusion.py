@@ -114,7 +114,7 @@ def main():
         return True  # You should implement your own verification logic here
 
     def login_content():
-        st.image("company_logo.jpeg")
+        st.image("C:/Projects/Unsupervised Learning/System recommendation app/Unsupervised-Learning-Project-OA1-Streamlit/company_logo.jpeg")
         st.title("Welcome to FusionX-Network")
         st.title("SIGN IN")
         username = st.text_input("Username")
