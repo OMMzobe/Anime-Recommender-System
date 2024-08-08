@@ -114,7 +114,7 @@ def main():
         return True  # You should implement your own verification logic here
 
     def login_content():
-        st.image(st.image("company_logo.jpeg"))
+        st.image("company_logo.jpeg")
         st.title("Welcome to FusionX-Network")
         st.title("SIGN IN")
         username = st.text_input("Username")
